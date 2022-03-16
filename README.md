@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on vod projects
+Working on video streaming projects
 
 <!--
 **foxPrateek/foxprateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
